@@ -1,4 +1,4 @@
-# WPSite
+# wp-site
 
 ### [Official Site/Blog][1] - [@pedrolamas][2]
 
