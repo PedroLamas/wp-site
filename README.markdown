@@ -10,4 +10,4 @@ See the [LICENSE.txt][3] file for details.
 
 [1]: http://www.pedrolamas.com
 [2]: http://twitter.com/pedrolamas
-[3]: https://pedrolamas.github.com/wp-site/LICENSE.txt "License"
+[3]: http://pedrolamas.github.com/wp-site/LICENSE.txt "License"
