@@ -1,0 +1,72 @@
+body {
+	background-color: #111;
+	color: #FFF;
+	font-family: "Segoe UI SemiBold", "Segoe UI", Helvetica, Arial, Sans-Serif;
+	cursor: default;
+}
+
+a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.screenContainer {
+	width: 320px;
+	height: 533px;
+	overflow-y: hidden;
+	background: #000;
+
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	margin: 50px auto;
+}
+
+.screenTopContainer {
+  height: 42px;
+  width: 100%;
+  position: absolute;
+  z-index: 100;
+  2background: #004C9A;
+}
+
+.screenTopContainer span {
+	font-size: 12px;
+	float: right;
+	margin: 6px 5px 0 0;
+}
+
+.screenContentContainer {
+	margin: 48px 0 0 16px;
+	background: gray;
+}
+
+.tile {
+	background-color: #004C9A;
+	width: 140px;
+	height: 140px;
+	margin: 8px 8px 0 0;
+	float: left;
+}
+
+.tileContainer {
+	width: 148px;
+	height: 148px;
+	float: left;
+}
+
+.tileContainer .tile {
+	width: 66px;
+	height: 66px;
+}
+
+.tile img {
+	position: absolute;
+}
+
+.tile span {
+	font-size: 12px;
+	top: 116px;
+	left: 8px;
+	position: relative;
+}
