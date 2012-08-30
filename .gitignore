@@ -1,0 +1,10 @@
+Thumbs.db
+*.user
+*.vspscc
+*.suo
+*.log
+[Bb]in
+*.cache
+*.Cache
+_ReSharper*/
+.JustCode/
