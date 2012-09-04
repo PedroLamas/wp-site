@@ -10,16 +10,25 @@ a {
 	color: #FFF;
 }
 
+.phoneContainer {
+	background: url('../images/Lumia800.png');
+	width: 403px;
+	height: 764px;
+	
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	margin: 10px auto;
+}
+
 .screenContainer {
 	width: 320px;
 	height: 533px;
 	overflow-y: hidden;
 	background: #000;
-
-	left: 0px;
-	right: 0px;
 	position: absolute;
-	margin: 50px auto;
+	top: 95px;
+	left: 40px;
 }
 
 .screenTopContainer {

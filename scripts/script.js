@@ -15,7 +15,7 @@ jQuery(document).ready(function() {
 		$(".screenContentContainer").draggable({
 			distance: 5,
 			axis: "y",
-			containment: [0, -100, 0, 50]
+			containment: [0, -100, 0, 105]
 		});
 		
 		$(".screenContainer").disableSelection();
