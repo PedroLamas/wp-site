@@ -64,7 +64,7 @@ a {
 	float: left;
 }
 
-.tileContainer .tile {
+.tileContainer .tile, .small {
 	width: 66px;
 	height: 66px;
 }
